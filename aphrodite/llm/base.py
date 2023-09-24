@@ -1,7 +1,7 @@
+"""reference: https://github.com/aiwaves-cn/agents"""
 import os
 import time
 from abc import abstractclassmethod
-from typing import Any
 
 import openai
 
